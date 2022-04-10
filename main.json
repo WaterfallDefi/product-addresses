@@ -1,0 +1,77 @@
+{
+    "bsc": {
+        "tranches": [
+            {
+                "name": "BUSD Falls 4",
+                "address": "0x4D364f4e813740D963b03D8c315d6F8c0e6b17E3",
+                "currency": [
+                    "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+                ],
+                "auto": true,
+                "tranche_n": 3
+            },
+            {
+                "name": "BUSD Falls 3",
+                "address": "0x17Dd4D94fCA4f26C23fBa591AD5418260950FD16",
+                "currency": [
+                    "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+                ],
+                "auto": false,
+                "tranche_n": 3
+            },
+            {
+                "name": "BUSD Falls 1",
+                "address": "0x22C6719A53cEAE150f93c225e6BDbF7722B67523",
+                "currency": [
+                    "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+                ],
+                "auto": false,
+                "tranche_n": 3
+            },
+            {
+                "name": "BUSD Falls 2",
+                "address": "0x466D5d69DB51c562A850227ed2081040b408a98D",
+                "currency": [
+                    "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+                ],
+                "auto": false,
+                "tranche_n": 3
+            }
+        ],
+        "staking": {
+            "address": "0x4df3Cc03FAfB2BCC139e23CD6fa6073a8F73E7c7",
+            "token": "0xd73F32833B6D5D9c8070c23e599e283a3039823C"
+        }
+    },
+    "avax": {
+        "tranches": [
+            {
+                "name": "Dai.e Fall",
+                "address": "0x41EA3e25f4eE30C49657dF20564B3B0F21a172b5",
+                "currency": [
+                    "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70"
+                ],
+                "auto": true,
+                "tranche_n": 3
+            },
+            {
+                "name": "AVAX Fall",
+                "address": "0x852a59E83FeE95165006d00F83356139aebfCaC4",
+                "currency": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+                "auto": true,
+                "tranche_n": 3
+            },
+            {
+                "name": "Maxi Fall",
+                "address": "0xd4BcafB934d417D533C5D06f084394205990a6Bc",
+                "currency": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+                "auto": true,
+                "tranche_n": 3
+            }
+        ],
+        "staking": {
+            "address": "0xe3969906806AF7D97D4B483f22eb01EF6E53de8a",
+            "token": "0x873801Ae2ff12d816Db9a7B082F5796BEC64C82C"
+        }
+    }
+}
