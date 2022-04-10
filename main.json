@@ -1,5 +1,6 @@
 {
     "bsc": {
+        "wtf": "0xd73F32833B6D5D9c8070c23e599e283a3039823C",
         "tranches": [
             {
                 "name": "BUSD Falls 4",
@@ -44,6 +45,7 @@
         }
     },
     "avax": {
+        "wtf": "0x873801Ae2ff12d816Db9a7B082F5796BEC64C82C",
         "tranches": [
             {
                 "name": "Dai.e Fall",
