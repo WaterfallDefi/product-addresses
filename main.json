@@ -6,9 +6,9 @@
                 "name": "BUSD Falls 4",
                 "address": "0x4D364f4e813740D963b03D8c315d6F8c0e6b17E3",
                 "currency": [
-                    "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+                    "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56", "0x14016E85a25aeb13065688cAFB43044C2ef86784"
                 ],
-                "currencyRatios": [1],
+                "currencyRatios": [0.6, 0.4],
                 "auto": true,
                 "tranche_n": 3
             },
