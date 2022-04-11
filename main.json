@@ -8,6 +8,7 @@
                 "currency": [
                     "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
                 ],
+                "currencyRatios": [1],
                 "auto": true,
                 "tranche_n": 3
             },
@@ -17,6 +18,7 @@
                 "currency": [
                     "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
                 ],
+                "currencyRatios": [1],
                 "auto": false,
                 "tranche_n": 3
             },
@@ -26,6 +28,7 @@
                 "currency": [
                     "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
                 ],
+                "currencyRatios": [1],
                 "auto": false,
                 "tranche_n": 3
             },
@@ -35,6 +38,7 @@
                 "currency": [
                     "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
                 ],
+                "currencyRatios": [1],
                 "auto": false,
                 "tranche_n": 3
             }
@@ -53,6 +57,7 @@
                 "currency": [
                     "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70"
                 ],
+                "currencyRatios": [1],
                 "auto": true,
                 "tranche_n": 3
             },
@@ -60,6 +65,7 @@
                 "name": "AVAX Fall",
                 "address": "0x852a59E83FeE95165006d00F83356139aebfCaC4",
                 "currency":["0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7"],
+                "currencyRatios": [1],
                 "auto": true,
                 "tranche_n": 3
             },
@@ -67,6 +73,7 @@
                 "name": "Maxi Fall",
                 "address": "0xd4BcafB934d417D533C5D06f084394205990a6Bc",
                 "currency": ["0xd586E7F844cEa2F87f50152665BCbc2C279D8d70"],
+                "currencyRatios": [1],
                 "auto": true,
                 "tranche_n": 3
             }
